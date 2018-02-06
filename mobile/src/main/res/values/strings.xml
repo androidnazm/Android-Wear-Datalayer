@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Watch and Phone Communication</string>
+    <string name="hello_world"> Press The Button To Change The Backgraoung Color of the Of watch App\'s Layout
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">Random Backgound Color on Watch</string>
+</resources>
